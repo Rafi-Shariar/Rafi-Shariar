@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover.png" alt="Rafi Shariar Banner" width="100%" />
+  <img src="Cover.png" alt="Rafi Shariar Banner" width="100%" />
 </p>
 
 <h1 align="center">Rafi Shariar</h1>
