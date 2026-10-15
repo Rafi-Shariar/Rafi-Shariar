@@ -8,10 +8,6 @@
 
 Beyond core web development, I hold a deep appreciation for foundational computer science principles. I have established a solid grounding in **C++, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), and System Design**. Driven by a love for engineering logic and critical thinking, I have **solved over 500 problems** across various platforms. <br><br> I am constantly expanding my technical horizon and am currently **deep-diving into Next.js** to master advanced full-stack systems and performance-optimized architectures.</p><br>
 
-<p align="center">
-  <!-- GitHub Streak Counter -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafi-shariar&theme=visual_studio_code&hide_border=true" alt="GitHub Streak" height="150px" />
-</p>
 
 ## 📞 Contact With Me
 
